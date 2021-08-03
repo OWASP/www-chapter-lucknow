@@ -2,9 +2,11 @@
 
 layout: col-sidebar
 title: OWASP Lucknow
-tags: example-tag
+tags: sup
+level: 0
 region: Asia
 meetup-group: owasp-lucknow-group
+country: India
 
 ---
 

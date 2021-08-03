@@ -1,9 +1,9 @@
 ---
 title: Leaders
-layout:  null
+displaytext: Leaders
 tab: true
-order: 2
-tags: leaders-tag
+order: 1
+tags: sup
 ---
 
 ## Example

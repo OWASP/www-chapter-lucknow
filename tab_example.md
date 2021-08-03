@@ -1,9 +1,9 @@
 ---
 title: Example
-layout:  null
+displaytext: Example
 tab: true
 order: 1
-tags: example-tag
+tags: sup
 ---
 
 ## Example
