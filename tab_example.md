@@ -1,7 +1,7 @@
 ---
 title: Example
 displaytext: Example
-tab: false
+tab: true
 order: 1
 tags: sup
 ---
