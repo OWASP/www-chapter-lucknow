@@ -1,6 +1,6 @@
 ---
-title: Our Team
-displaytext: Our Team
+title: Team
+displaytext: Team
 tab: true
 order: 1
 tags: sup
