@@ -1,6 +1,6 @@
 ---
-title: Team
-displaytext: Team
+title: Leaders
+displaytext: Our Team
 tab: true
 order: 1
 tags: sup
