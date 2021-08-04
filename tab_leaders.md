@@ -46,11 +46,15 @@ Twitter: [Ankit Giri](https://twitter.com/aankitgiri)
 #### **Akarsh Singh (2021 - Present)**
 
 Akarsh has started his Cybersecurity Journey in 2020. It has been 1 year for him learning and exploring in this domain.
+
 He has a good experience in the Web Application Penetration Testing domain.
+
 He is currently working as a Security Analyst at [Enciphers](https://enciphers.com/)
+
 Specialities: Penetration testing, Web Application Penetration Testing, Developing Android Applications
 
 Twitter: [Akarsh Singh](https://twitter.com/AkarshS99378244)
+
 Linkedin: [Akarsh Singh](linkedin.com/in/akarsh-singh-117118152)
 
 
@@ -73,7 +77,9 @@ Linkedin: [Abhijeet Singh](https://www.linkedin.com/in/abhiunix)
 #### **Ambuj Kumar (2021 - Present)**
 
 Currently working as a DevSecOps engineer.
+
 Infosec specialist whose qualifications include detailed knowledge of security tools, technologies and best practices.
+
 Experience in the creation and deployment of solutions protecting networks,systems and information assets for diverse companies and organizations.
 
 My technical interests lie in vulnerability assessment, Pentesting and remediation support, Docker and kubernetes security.
