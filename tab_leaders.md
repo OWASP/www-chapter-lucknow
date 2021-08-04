@@ -10,6 +10,50 @@ tags: sup
  
 ### Leaders
 
+#### **Ankit Giri (2021 - Present)**
+
+Entrepreneur, presenter, and a blogger, Ankit has a diverse background in writing informational blogs. A penetration tester by profession with 6+ years of experience. Part time bug bounty hunter. Featured in the Hall of Fame of EFF,GM,SONY, HTC, Pagerduty, HTC, AT&T,Mobikwik and multiple other Hall Of Fames. He loves speaking in conferences, has been a feature at AWS Community Day 2020, DeepSec Austria 2019,BSides Ahmedabad 2019, RSA APAC 2018, BSides Delhi 2017, CSA, Dehradun,Cyber Square Summit, OWASP Jaipur and has been a regular feature at Infosec meetups like Null and OWASP Delhi Chapter, TestTribe and Peerlyst meetups. He had presented his research on the following topics:
+
+Mastering AWS Pentesting and Methodology
+
+Cloud Security & Best Practices in AWS,
+
+Ineluctable weakness of logical vulnerabilities
+
+Pwning Windows Mobile Applications,
+
+IoT Security Risks & Challenges,
+
+Application of Machine Learning in Criminal Profiling,
+
+Pentesting Mobile Applications.
+
+Ankit has also taken a hands-on session on Securing AWS environments at null Bachaav.
+
+He has taken guest lectures in getting started with AWS, and Mobile computing at the Fore School of Management.
+
+Recently presented a guest lecture on "Ineluctable weakness of logical vulnerabilities" at IIT Roorkee, Online Summer Training Program on Ethical Hacking and Cyber Security.
+Another guest lecture at The Department of Information Technology of NIT, Online One Week International Webinar Series on Top Trending Technologies in the World.
+
+He also led the show for the Peerlyst, Delhi-NCR chapter. He has published articles in PenTest magazine on IoT security. He has been a featured profile at Peerlyst.
+
+Blog: <https://about.me/ankitgiri>
+
+Linkedin:  [Ankit Giri](https://www.linkedin.com/in/ankitgiri/)
+
+Twitter: [Ankit Giri](https://twitter.com/aankitgiri)
+
+#### **Akarsh Singh (2021 - Present)**
+
+Akarsh has started his Cybersecurity Journey in 2020. It has been 1 year for him learning and exploring in this domain.
+He has a good experience in the Web Application Penetration Testing domain.
+He is currently working as a Security Analyst at [Enciphers](https://enciphers.com/)
+Specialities: Penetration testing, Web Application Penetration Testing, Developing Android Applications
+
+Twitter: [Akarsh Singh](https://twitter.com/AkarshS99378244)
+Linkedin: [Akarsh Singh](linkedin.com/in/akarsh-singh-117118152)
+
+
 ### Chapter Members
 
 #### **Abhijeet Singh (2021 - Present)**
