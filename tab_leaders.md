@@ -5,10 +5,9 @@ tab: true
 order: 1
 tags: sup
 ---
-
-# Our Team
  
-### Leaders
+## Leaders
+
 
 #### **Ankit Giri (2021 - Present)**
 
@@ -43,12 +42,12 @@ Linkedin:  [Ankit Giri](https://www.linkedin.com/in/ankitgiri/)
 
 Twitter: [Ankit Giri](https://twitter.com/aankitgiri)
 
+
 #### **Akarsh Singh (2021 - Present)**
 
 Akarsh has started his Cybersecurity Journey in 2020. It has been 1 year for him learning and exploring in this domain.
 
 He has a good experience in the Web Application Penetration Testing domain.
-
 He is currently working as a Security Analyst at [Enciphers](https://enciphers.com/)
 
 Specialities: Penetration testing, Web Application Penetration Testing, Developing Android Applications
@@ -59,6 +58,7 @@ Linkedin: [Akarsh Singh](linkedin.com/in/akarsh-singh-117118152)
 
 
 ### Chapter Members
+
 
 #### **Abhijeet Singh (2021 - Present)**
 
@@ -74,6 +74,7 @@ Twitter: [@abhiunix](https://twitter.com/abhiunix)
 
 Linkedin: [Abhijeet Singh](https://www.linkedin.com/in/abhiunix)
 
+
 #### **Ambuj Kumar (2021 - Present)**
 
 Currently working as a DevSecOps engineer.
@@ -87,6 +88,7 @@ My technical interests lie in vulnerability assessment, Pentesting and remediati
 Speaker@ [Bhopal police](http://bhopalpolice.com/), [Gujarat Technological University](https://www.gtu.ac.in/) 
 
 Linkedin: [Ambuj Kumar](https://www.linkedin.com/in/ambujkumarcse/)
+
 
 #### **Siddhanth Dwivedi (2021 - Present)**
 
