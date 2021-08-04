@@ -25,7 +25,7 @@ Anyone can join who wants to increase their knowledge in the area of cybersecuri
 It will be conducted online click on the below link given to join and be a part of our first meetup.
 
 
-#### [RSVP link:](https://www.meetup.com/owasp-lucknow-group/events/279868979/)
+#### RSVP link: [https://www.meetup.com/owasp-lucknow-group/events/279868979/](https://www.meetup.com/owasp-lucknow-group/events/279868979/)
 
-#### [Join our meetup group at:](https://www.meetup.com/owasp-lucknow-group)
+#### Join our meetup group at: [https://www.meetup.com/owasp-lucknow-group](https://www.meetup.com/owasp-lucknow-group)
 
