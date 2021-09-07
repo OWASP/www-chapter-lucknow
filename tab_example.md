@@ -8,24 +8,25 @@ tags: sup
 
 # **Upcoming Events**
 
-## 7th August,2021
+## 11th September,2021
 
-It will be conducted on  Saturday from 12:00 pm to 1:30 pm. The meetups are free for everyone.
-Anyone can join who wants to increase their knowledge in the area of cybersecurity.
+It will be conducted on saturday from 11:00 am to 1:00 pm. The meetup is free for everyone.
+Everybody is welcome to our OWASP Lucknow meetup  who wants to increase their knowledge in the area of cybersecurity.
 
 ### **Timeline**
 
-* 12 Noon : Chapter introduction and vision.
-* 12:15pm : News bytes.
-* 12:30pm : Nom tech cyber security by Aditya Anand (Infosec engineer @ Phonepay).
-* 01:15pm : Questions, feedbacks.
+* 11:00am : Chapter introduction and vision.
+* 11:05am : Burp API 101 by Siddhant Dwivedi (Security Engineer @Great Learning)
+* 11:20am : Roadmap to DevSecOps by Rahul Dev (DevSecOps engineer @ Paytm).
+* 12:05pm : SSTI:RCE for modern web apps by Mandeep Jadon (Security analyst @ Flipkart)
+* 12:50pm : Questions,feedback.
 
 ### **Venue:**
 
-It will be conducted online click on the below link given to join and be a part of our first meetup.
+As it will be conducted online so click on the below link given to join and be a part of our meetup.
 
 
-#### RSVP link: [https://www.meetup.com/owasp-lucknow-group/events/279868979/](https://www.meetup.com/owasp-lucknow-group/events/279868979/)
+#### RSVP link: [https://www.meetup.com/owasp-lucknow-group/events/280610317/](https://www.meetup.com/owasp-lucknow-group/events/280610317/)
 
 #### Join our meetup group at: [https://www.meetup.com/owasp-lucknow-group](https://www.meetup.com/owasp-lucknow-group)
 
