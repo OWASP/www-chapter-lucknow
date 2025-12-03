@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Arsalan Rizwan](mailto:arsalan.rizwan@owasp.org)
+* [Aniket Maurya](mailto:aniket.maurya@owasp.org)
