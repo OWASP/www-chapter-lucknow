@@ -39,7 +39,7 @@ We encourage participants to actively engage, learn, network, and contribute to 
 
 ## Upcoming Events
 
-{% include chapter_events.html group=page.meetup-group %}
+[meetup.com](https://www.meetup.com/owasp-lucknow-chapter)
 
 *Click above to view event details and RSVP via our Meetup page.*
 
@@ -56,7 +56,8 @@ You can connect with the leadership team through the chapter’s Meetup page or 
 
 Stay connected and help build the local AppSec community:
 
-**Meetup:** https://meetup.com/OWASP-Lucknow  
+
+**[meetup.com]**(https://www.meetup.com/owasp-lucknow-chapter)
 **Slack:** Join the OWASP Slack workspace and find our chapter channel  
 **Contribute:** Volunteer, propose talks, or help organize workshops and CTFs
 
