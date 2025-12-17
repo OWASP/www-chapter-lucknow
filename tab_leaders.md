@@ -1,11 +1,17 @@
 ---
-title: leaders
-displaytext: Leaders
+title: Leaders
+displaytext: Leadership
+layout: null
 tab: true
-order: 1
-tags: lko
+order: 2
+tags: lucknow
 ---
 
-## Example
+## Leadership Team
 
-test
+The OWASP Lucknow Chapter is led by:
+
+- **Arsalan Rizwan**
+- **Aniket Maurya**
+
+You can connect with us via our Meetup page or at events.
