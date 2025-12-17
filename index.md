@@ -39,13 +39,6 @@ Participation is **free and open to everyone**. Whether you are a student, devel
 
 *View upcoming events and RSVP via our Meetup page.*
 
-## Leadership Team
-
-The chapter is led by local volunteers committed to strengthening the application security ecosystem:
-
-- **Arsalan Rizwan**  
-- **Aniket Maurya**
-
 ## Get Involved
 
 - **Meetup:** https://www.meetup.com/owasp-lucknow-chapter
