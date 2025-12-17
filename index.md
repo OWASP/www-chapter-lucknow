@@ -49,7 +49,6 @@ The chapter is led by local volunteers committed to strengthening the applicatio
 ## Get Involved
 
 **Meetup:** https://www.meetup.com/owasp-lucknow-chapter
-**Slack:** Join the OWASP Slack workspace and find our chapter channel  
 **Contribute:** Volunteer, propose talks, or help organize events
 
 ---
