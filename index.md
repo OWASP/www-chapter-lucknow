@@ -9,58 +9,49 @@ postal-code: 226001
 
 ## Welcome to OWASP Lucknow
 
-OWASP Lucknow is the official Local Chapter of the Open Worldwide Application Security Project (OWASP) in Lucknow, India. We are a community of security professionals, developers, students, and enthusiasts united by a shared mission: to improve software security through open collaboration, continuous learning, and practical action.
+OWASP Lucknow is the official Local Chapter of the Open Worldwide Application Security Project (OWASP) in Lucknow, India. We are a community of security professionals, developers, students, and enthusiasts working together to improve software security through open collaboration and practical learning.
 
-As part of OWASP’s global network of chapters, we bring world-class application security knowledge and best practices to the local community, helping individuals and organizations build more secure software systems.
+As part of OWASP’s global chapter network, we bring world-class application security knowledge and best practices to the local community.
 
-Our chapter regularly hosts meetups, hands-on workshops, technical talks, and collaborative hacking sessions. These activities are designed to help participants build real-world skills, explore emerging threats and defenses, and connect with peers across the application security ecosystem.
+Our chapter hosts meetups, hands-on workshops, technical talks, and collaborative sessions focused on real-world application security challenges.
 
 ## What We Do
 
-We focus on creating a strong and inclusive application security community in Lucknow through the following initiatives:
-
 **Community Events**  
-Regular meetups featuring experienced speakers, interactive demonstrations, and knowledge-sharing sessions on current security topics.
+Meetups with expert speakers, discussions, and demos on current security topics.
 
 **Practical Workshops**  
-Hands-on training covering secure coding practices, threat modeling, defensive tooling, DevSecOps, API security, and cloud security.
+Hands-on sessions covering secure coding, threat modeling, DevSecOps, API, and cloud security.
 
 **CTFs & Labs**  
-Capture The Flag challenges and guided labs that allow participants to practice offensive and defensive techniques in a collaborative environment.
+Interactive challenges and labs to practice offensive and defensive techniques.
 
 **Collaborative Projects**  
-Opportunities to contribute to OWASP initiatives and open-source security tools, supported by mentorship and peer collaboration.
+Contributions to OWASP and open-source security initiatives.
 
 ## Participation
 
-Participation in OWASP Lucknow events and activities is **free and open to everyone**. No prior OWASP membership or registration fees are required. Whether you are a student beginning your journey in application security, a developer strengthening secure design skills, or an experienced professional sharing expertise, you are welcome to join.
-
-We encourage participants to actively engage, learn, network, and contribute to the community. Those who wish to further support OWASP’s global mission are encouraged to become members of the OWASP Foundation.
+Participation is **free and open to everyone**. Whether you are a student, developer, or security professional, you are welcome to learn, network, and contribute. Supporting OWASP through Foundation membership is encouraged but optional.
 
 ## Upcoming Events
 
-[meetup.com](https://www.meetup.com/owasp-lucknow-chapter)
+[Meetup.com – OWASP Lucknow](https://www.meetup.com/owasp-lucknow-chapter)
 
-*Click above to view event details and RSVP via our Meetup page.*
+*View upcoming events and RSVP via our Meetup page.*
 
 ## Leadership Team
 
-The OWASP Lucknow Chapter is led by passionate local volunteers committed to growing and strengthening the application security ecosystem in the region:
+The chapter is led by local volunteers committed to strengthening the application security ecosystem:
 
 - **Arsalan Rizwan**  
 - **Aniket Maurya**
 
-You can connect with the leadership team through the chapter’s Meetup page or by attending one of our events.
-
 ## Get Involved
 
-Stay connected and help build the local AppSec community:
-
-
-**Meetup.com** [meetup.com](https://www.meetup.com/owasp-lucknow-chapter)
+**Meetup:** https://www.meetup.com/owasp-lucknow-chapter
 **Slack:** Join the OWASP Slack workspace and find our chapter channel  
-**Contribute:** Volunteer, propose talks, or help organize workshops and CTFs
+**Contribute:** Volunteer, propose talks, or help organize events
 
 ---
 
-OWASP Local Chapters play a vital role in spreading application security awareness worldwide. OWASP Lucknow serves as a gateway for skills development, collaboration, and meaningful impact within Uttar Pradesh and beyond.
+OWASP Lucknow is a gateway to learning, collaboration, and community-driven application security in Uttar Pradesh and beyond.
