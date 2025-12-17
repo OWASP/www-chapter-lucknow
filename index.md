@@ -57,7 +57,7 @@ You can connect with the leadership team through the chapter’s Meetup page or 
 Stay connected and help build the local AppSec community:
 
 
-**[meetup.com]**(https://www.meetup.com/owasp-lucknow-chapter)
+**Meetup.com** [meetup.com](https://www.meetup.com/owasp-lucknow-chapter)
 **Slack:** Join the OWASP Slack workspace and find our chapter channel  
 **Contribute:** Volunteer, propose talks, or help organize workshops and CTFs
 
