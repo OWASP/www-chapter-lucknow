@@ -1,87 +1,63 @@
 ---
-
 layout: col-sidebar
 title: OWASP Lucknow
-tags: example-tag
+tags: lucknow owasp
 region: Asia
-country: India
-meetup-group:
+meetup-group: OWASP-Lucknow
+postal-code: 226001
+---
+
+## Welcome to OWASP Lucknow
+
+OWASP Lucknow is the official Local Chapter of the Open Worldwide Application Security Project (OWASP) in Lucknow, India. We are a community of professionals, students, and enthusiasts united by a shared mission: to improve software security through open collaboration, learning, and practical action. As part of OWASP’s global network of chapters, we bring world-class application security insights to the local level.:contentReference[oaicite:1]{index=1}
+
+Our chapter hosts regular meetups, hands-on workshops, tech talks, and collaborative hacking sessions designed to help attendees build real skills, explore the latest threats and defenses, and connect with peers in the AppSec ecosystem.
+
+## What We Do
+
+We focus on creating a thriving security community in Lucknow by:
+
+**Community Events**  
+Regular meetups featuring expert speakers, interactive demos, and project showcases.
+
+**Practical Workshops**  
+Hands-on sessions covering secure coding, threat modeling, defensive tooling, DevSecOps practices, API and cloud security.
+
+**CTFs & Labs**  
+Capture The Flag challenges and labs to sharpen offensive and defensive skills together.
+
+**Collaborative Projects**  
+Opportunities to contribute to OWASP initiatives and open source tools, guided by experienced mentors.
+
+## Participation
+
+Participation in OWASP Lucknow events and activities is **free and open to everyone** — no prior membership or fees required. Whether you’re a student exploring application security, a developer sharpening your defensive skills, or a seasoned professional sharing experience, you are welcome here.
+
+We encourage attendees to network, learn, and contribute. You can also support OWASP’s global mission by becoming a member of the OWASP Foundation.:contentReference[oaicite:2]{index=2}
+
+## Upcoming Events
+
+{% include chapter_events.html group=page.meetup-group %}
+
+*Click above to see details and RSVP on our Meetup page.*
+
+## Leadership Team
+
+Our chapter is led by passionate local volunteers driving the growth of AppSec in the region:
+
+* **Arsalan Rizwan**  
+* **Aniket Maurya**
+
+You can reach out to us via the chapter’s Meetup page or connect at any events we host.
+
+## Get Involved
+
+Stay connected and help build the local AppSec community:
+
+**Meetup:** https://meetup.com/OWASP-Lucknow  
+**Slack:** Join the OWASP Slack workspace and find our channel  
+**Contribute:** Help shape workshops, talks, and CTF content
 
 ---
 
-<div style='color:red;'>
-
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
-
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
-
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
-
-<li>region: This is the region you are in according to our data</li>
-
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
-
-</div>
-
-## Welcome
-Include some information here about your chapter
-
-## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
-
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
-
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
----------------------
-{% include chapter_events.html group=page.meetup-group %}
-
-<!-- You should delete this comment
-
-Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-{front matter for this file}
-
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
-
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
-
-## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
-
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Next Meeting/Event
----------------------
-{% comment %}
-{% include chapter_events.html group=page.meetup-group %}
-{% endcomment %}
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+OWASP Local Chapters play a central role in spreading application security awareness globally — and OWASP Lucknow is your gateway to skills, connections, and impact right here in Uttar Pradesh.:contentReference[oaicite:3]{index=3}
