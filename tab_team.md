@@ -1,6 +1,6 @@
 ---
-title: Leaders
-displaytext: Leaders
+title: Team
+displaytext: Team
 layout: null
 tab: true
 order: 2
@@ -21,4 +21,7 @@ Focus areas include web application security, vulnerability research, secure sof
 Security Enthusiast | Community Organizer  
 Actively involved in organizing technical sessions, workshops, and outreach initiatives to strengthen the local AppSec ecosystem.
 
-You can connect with us via our Meetup page or at events.
+### Volunteers
+
+[**Nitesh Kumar**](https://www.linkedin.com/in/nitesh0x00/) | Volunteer Lead  
+Cybersecurity Enthusiast | CTF Player
