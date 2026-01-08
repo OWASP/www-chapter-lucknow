@@ -24,6 +24,8 @@ Actively involved in organizing technical sessions, workshops, and outreach init
 [**Nitesh Kumar**](https://www.linkedin.com/in/nitesh0x00/) | Volunteer Lead  
 Cybersecurity Enthusiast | CTF Player
 Passionate about penetration testing and Active Directory security. Actively participates in CTF competitions and contributes to strengthening the chapter's technical outreach and community engagement.
+
+
  
 You can connect with us via our Meetup page or at events.
 
