@@ -15,6 +15,7 @@ As part of OWASP’s global chapter network, we bring world-class application se
 
 Our chapter hosts meetups, hands-on workshops, technical talks, and collaborative sessions focused on real-world application security challenges.
 
+
 ## What We Do
 
 **Community Events**  
@@ -33,6 +34,7 @@ Contributions to OWASP and open-source security initiatives.
 
 Participation is **free and open to everyone**. Whether you are a student, developer, or security professional, you are welcome to learn, network, and contribute. Supporting OWASP through Foundation membership is encouraged but optional.
 
+
 ## Upcoming Events
 
 [Meetup.com – OWASP Lucknow](https://www.meetup.com/owasp-lucknow-chapter)
@@ -41,7 +43,7 @@ Participation is **free and open to everyone**. Whether you are a student, devel
 
 ## Get Involved
 
-- **Meetup:** https://www.meetup.com/owasp-lucknow-chapter
+- **Meetup:** [https://www.meetup.com/owasp-lucknow-chapter](https://www.meetup.com/owasp-lucknow-chapter)
 - **Contribute:** Volunteer, propose talks, or help organize events
 
 ---
