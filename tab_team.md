@@ -7,8 +7,6 @@ order: 2
 tags: lucknow
 ---
 
-## Leadership Team
-
 The OWASP Lucknow Chapter is led by:
 
 ### Chapter Leaders
