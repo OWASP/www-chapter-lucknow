@@ -25,3 +25,6 @@ Actively involved in organizing technical sessions, workshops, and outreach init
 
 [**Nitesh Kumar**](https://www.linkedin.com/in/nitesh0x00/) | Volunteer Lead  
 Cybersecurity Enthusiast | CTF Player
+
+You can connect with us via our Meetup page or at events.
+
